@@ -29,7 +29,7 @@ public class GradeBook {
                            for (Student student : students) {
                         System.out.println(student.getLastName() + ", " );
                          System.out.println(student.getFirstName() + ": " );
-                         System.out.println( student.getGrade()+ ": ");
+                         System.out.println(student.getGrade()+ ": ");
                     }
                     continue;
                 case "2":
