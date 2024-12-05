@@ -1,5 +1,5 @@
 public class Student {
-    String firstName, lastName;
+   private  String firstName, lastName;
     double grade;
     public String getLastName() { return lastName; }
     public void setLastName(String newLastName) { lastName = newLastName; }
